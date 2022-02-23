@@ -1,0 +1,12 @@
+This program is a simple shell interface written by Dexter Norris.
+It must be run on a linux machine and compiled using the "make" 
+command with the included makefile. This program has the following
+abilities:
+1. Ability to change directories to both relative and absolute paths.
+2. The ability to execute basic commands such as "sleep","ls","exit" etc.
+3. The ability to use text editors such as vim and nano and manipulate text files.
+4. The ability to run tasks in the background using "bg".
+
+My simple shell operates similar to a standard bash shell although it has less implementations.
+It does not have the ability to show what background tasks are running yet.
+Please enjoy my simple shell. 
